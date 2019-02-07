@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.1332bfe7.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.b761cf2a.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.b761cf2a.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/react-gh-pages/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/react-gh-pages/static/js/1.fa92c112.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg",
-  "static/css/main.1332bfe7.chunk.css.map": "/react-gh-pages/static/css/main.1332bfe7.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.ce603668cb61e46342d545b1d02462eb.js": "/react-gh-pages/precache-manifest.ce603668cb61e46342d545b1d02462eb.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "rohansamanta.com/static/css/main.1332bfe7.chunk.css",
+  "main.js": "rohansamanta.com/static/js/main.bdea667d.chunk.js",
+  "main.js.map": "rohansamanta.com/static/js/main.bdea667d.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "rohansamanta.com/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "rohansamanta.com/static/js/1.fa92c112.chunk.js.map",
+  "runtime~main.js": "rohansamanta.com/static/js/runtime~main.7bb42c5d.js",
+  "runtime~main.js.map": "rohansamanta.com/static/js/runtime~main.7bb42c5d.js.map",
+  "static/media/logo.svg": "rohansamanta.com/static/media/logo.5d5d9eef.svg",
+  "static/css/main.1332bfe7.chunk.css.map": "rohansamanta.com/static/css/main.1332bfe7.chunk.css.map",
+  "index.html": "rohansamanta.com/index.html",
+  "precache-manifest.d3e86e637732441f74dd6bc6cccb29cd.js": "rohansamanta.com/precache-manifest.d3e86e637732441f74dd6bc6cccb29cd.js",
+  "service-worker.js": "rohansamanta.com/service-worker.js"
 }
